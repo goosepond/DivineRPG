@@ -1,7 +1,12 @@
 DivineRPG
 =========
 
-The official repository for the DivineRPG Minecraft mod.
+Unofficial repository for the DivineRPG Minecraft mod with some (imo) improvements for the 1.7.10 release
+
+Official DivineRPG repository: https://github.com/DivineRPG/DivineRPG
+
+
+## Notes from original README
 
 Download (CurseForge): https://www.curseforge.com/minecraft/mc-mods/official-divinerpg
 
